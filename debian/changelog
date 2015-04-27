@@ -1,0 +1,11 @@
+apertium-tat (0.1.0~r57462-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No tarball release, so taking directly from svn
+
+  [ Kartik Mistry ]
+  * Fixed dependencies.
+  * Rebuilt for Trusty.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 27 Apr 2015 21:30:53 +0530
