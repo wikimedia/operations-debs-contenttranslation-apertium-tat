@@ -1,3 +1,9 @@
+apertium-tat (0.1.0~r60887-1+wmf2) jessie-wikimedia; urgency=low
+
+  * Updated dependency on cg3.
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 10 Jan 2018 11:41:06 +0530
+
 apertium-tat (0.1.0~r60887-1+wmf1) jessie-wikimedia; urgency=low
 
   * New upstream release.
